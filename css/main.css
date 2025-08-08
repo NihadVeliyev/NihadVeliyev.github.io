@@ -1088,6 +1088,8 @@ header {
 	width: 100%;
 	min-height: 66px;
 	z-index: 600;
+	background: rgba(0,0,0,0.95);
+	box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 header .row {
 	position: relative;
@@ -1305,6 +1307,7 @@ header .logo a {
 	display: table;
 	position: relative;
 	text-align: center;
+	padding-top: 80px;
 }
 .intro-overlay {
 	position: absolute;
